@@ -9,7 +9,7 @@ class Life
 			          Array.new(cols) do |col|
 			          	 cell = Cell.new(row, col)
 			          	 cells << cell
-			          	 # return cell
+			          	 return cell
 			          end	
 		            end
 	end	
