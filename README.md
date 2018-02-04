@@ -11,4 +11,4 @@ Implementation of [James Conway's Game of life](https://en.wikipedia.org/wiki/Co
 
 # Steps to run the test cases
 1) Go inside the project directory
-2) Run `ruby rspec_game_of_life.rb`
+2) Run `rspec rspec_game_of_life.rb`
